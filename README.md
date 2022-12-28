@@ -13,7 +13,7 @@
 </p>
   <p align="center">
 <a href="https://wa.me/6285697467632"><img title="Author" src="https://img.shields.io/badge/Author-Ramdan-MD/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-<a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img title="YouTube" src="https://img.shields.io/badge/Ramdan-MD/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/@RmdanGithub"><img title="YouTube" src="https://img.shields.io/badge/Ramdan-MD/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
 <a href="https://instagram.com/rmdanlol_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Ramdan-MD/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
 <a href="https://chat.whatsapp.com/G3OCjnTsIbIFdOhdERQFMo"><img title="Group Jarot offc" src="https://img.shields.io/badge/Group-Ramdan-MD/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
 </p>
